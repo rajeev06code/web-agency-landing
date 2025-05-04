@@ -13,7 +13,7 @@ export const projects: Project[] = [
   {
     id: "ecommerce-platform",
     title: "E-commerce Platform",
-    description: "A complete e-commerce solution with modern UX",
+    description: "A complete e-commerce solutions with modern UX",
     category: "web",
     categoryLabel: "Web App",
     categoryColor: "bg-primary",
